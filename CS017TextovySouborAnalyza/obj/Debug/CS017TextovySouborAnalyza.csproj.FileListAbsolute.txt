@@ -1,0 +1,9 @@
+D:\Users\jakub\Desktop\CS017TextovySouborAnalyza\CS016TextovySouborCteni\bin\Debug\CS016TextovySouborCteni.exe.config
+D:\Users\jakub\Desktop\CS017TextovySouborAnalyza\CS016TextovySouborCteni\bin\Debug\CS016TextovySouborCteni.exe
+D:\Users\jakub\Desktop\CS017TextovySouborAnalyza\CS016TextovySouborCteni\bin\Debug\CS016TextovySouborCteni.pdb
+D:\Users\jakub\Desktop\CS017TextovySouborAnalyza\CS016TextovySouborCteni\obj\Debug\CS017TextovySouborAnalyza.csprojAssemblyReference.cache
+D:\Users\jakub\Desktop\CS017TextovySouborAnalyza\CS016TextovySouborCteni\obj\Debug\CS016TextovySouborCteni.zobrazeniSouboruForm.resources
+D:\Users\jakub\Desktop\CS017TextovySouborAnalyza\CS016TextovySouborCteni\obj\Debug\CS016TextovySouborCteni.Properties.Resources.resources
+D:\Users\jakub\Desktop\CS017TextovySouborAnalyza\CS016TextovySouborCteni\obj\Debug\CS017TextovySouborAnalyza.csproj.GenerateResource.cache
+D:\Users\jakub\Desktop\CS017TextovySouborAnalyza\CS016TextovySouborCteni\obj\Debug\CS016TextovySouborCteni.exe
+D:\Users\jakub\Desktop\CS017TextovySouborAnalyza\CS016TextovySouborCteni\obj\Debug\CS016TextovySouborCteni.pdb

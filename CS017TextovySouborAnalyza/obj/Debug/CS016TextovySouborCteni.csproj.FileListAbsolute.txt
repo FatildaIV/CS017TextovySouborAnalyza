@@ -1,0 +1,9 @@
+c:\users\administrator\documents\visual studio 2015\Projects\CS016TextovySouborCteni\CS016TextovySouborCteni\bin\Debug\CS016TextovySouborCteni.exe.config
+c:\users\administrator\documents\visual studio 2015\Projects\CS016TextovySouborCteni\CS016TextovySouborCteni\bin\Debug\CS016TextovySouborCteni.exe
+c:\users\administrator\documents\visual studio 2015\Projects\CS016TextovySouborCteni\CS016TextovySouborCteni\bin\Debug\CS016TextovySouborCteni.pdb
+c:\users\administrator\documents\visual studio 2015\Projects\CS016TextovySouborCteni\CS016TextovySouborCteni\obj\Debug\CS016TextovySouborCteni.csprojResolveAssemblyReference.cache
+c:\users\administrator\documents\visual studio 2015\Projects\CS016TextovySouborCteni\CS016TextovySouborCteni\obj\Debug\CS016TextovySouborCteni.zobrazeniSouboruForm.resources
+c:\users\administrator\documents\visual studio 2015\Projects\CS016TextovySouborCteni\CS016TextovySouborCteni\obj\Debug\CS016TextovySouborCteni.Properties.Resources.resources
+c:\users\administrator\documents\visual studio 2015\Projects\CS016TextovySouborCteni\CS016TextovySouborCteni\obj\Debug\CS016TextovySouborCteni.csproj.GenerateResource.Cache
+c:\users\administrator\documents\visual studio 2015\Projects\CS016TextovySouborCteni\CS016TextovySouborCteni\obj\Debug\CS016TextovySouborCteni.exe
+c:\users\administrator\documents\visual studio 2015\Projects\CS016TextovySouborCteni\CS016TextovySouborCteni\obj\Debug\CS016TextovySouborCteni.pdb

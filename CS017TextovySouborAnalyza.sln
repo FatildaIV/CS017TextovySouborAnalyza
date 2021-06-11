@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29609.76
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CS017TextovySouborAnalyza", "CS017TextovySouborAnalyza\CS017TextovySouborAnalyza.csproj", "{7CDDA86E-43CE-4DF9-9058-99BB7D1ACD47}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7CDDA86E-43CE-4DF9-9058-99BB7D1ACD47}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7CDDA86E-43CE-4DF9-9058-99BB7D1ACD47}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7CDDA86E-43CE-4DF9-9058-99BB7D1ACD47}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7CDDA86E-43CE-4DF9-9058-99BB7D1ACD47}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {46A8650F-1CAC-4629-93AB-82E27153C1DB}
+	EndGlobalSection
+EndGlobal
